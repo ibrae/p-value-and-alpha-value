@@ -14,3 +14,4 @@
 - State the alternative hypothesis
 #  Compare the p-value to the alpha value based on the comparison.
 - State whether you reject or fail to reject the null hypothesis.
+# Follow main.py file for step by step procedure
